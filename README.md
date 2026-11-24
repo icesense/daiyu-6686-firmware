@@ -1,4 +1,4 @@
-[README_github.md](https://github.com/user-attachments/files/35322417/README_github.md)
+
 # 带鱼固件 · TEF6686 双固件收音机（ESP32-S3）
 
 **带鱼固件**是给 STS-6686N 这套板子做的 TEF6686 收音机固件：ESP32-S3 主控、NXP TEF6686 调谐、ST7789 屏幕、
