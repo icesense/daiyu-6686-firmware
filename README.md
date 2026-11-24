@@ -8,6 +8,10 @@
 
 **本仓库只发布成品固件（bin），不提供源码。**
 
+[![带鱼固件 · TEF6686 双固件收音机](preview.jpg)](https://www.bilibili.com/video/BV1wjyXzEEbz/)
+
+▶ 视频：**[ESP32 收音机，和 AI 一起搓了个固件](https://www.bilibili.com/video/BV1wjyXzEEbz/)**（B 站）
+
 ---
 
 ## 硬件
